@@ -1,8 +1,10 @@
 ﻿
 //•	Boxing: Değer tipi(int, struct vb.) bir reference tipe (object veya bir interface) kopyalanıp heap'e konulduğunda oluşan işlem.
 //* Bu işlem yeni bir nesne oluşturur ve kopyalama maliyeti taşır.
-//•	Unboxing: Daha önce boxed edilmiş bir object içindeki değeri tekrar değer tipine dönüştürme işlemi. Tür doğrulaması ve değerin stack'e kopyalanmasını içerir.
-//•	Performans etkisi: Boxing bellek tahsisi (heap allocation) ve kopyalama üretir → CPU + GC maliyeti. Çok sık gerçekleşirse performans ve bellek baskısı yaratır.
+//•	Unboxing: Daha önce boxed edilmiş bir object içindeki değeri tekrar değer tipine dönüştürme işlemi.
+//* Tür doğrulaması ve değerin stack'e kopyalanmasını içerir.
+//•	Performans etkisi: Boxing bellek tahsisi (heap allocation) ve kopyalama üretir → CPU + GC maliyeti.
+//* Çok sık gerçekleşirse performans ve bellek baskısı yaratır.
 
 
 
