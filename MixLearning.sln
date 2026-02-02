@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringVSStringBuilder", "StringVSStringBuilder\StringVSStringBuilder.csproj", "{80F3322D-360C-412B-87E8-A847B7FD92CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefVsOut", "RefVsOut\RefVsOut.csproj", "{EE52F100-04CD-469E-97A1-E8439D524589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{80F3322D-360C-412B-87E8-A847B7FD92CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F3322D-360C-412B-87E8-A847B7FD92CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F3322D-360C-412B-87E8-A847B7FD92CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE52F100-04CD-469E-97A1-E8439D524589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE52F100-04CD-469E-97A1-E8439D524589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE52F100-04CD-469E-97A1-E8439D524589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE52F100-04CD-469E-97A1-E8439D524589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
