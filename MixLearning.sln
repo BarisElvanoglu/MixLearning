@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingAndDispose", "UsingAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "==operatörAndEqual", "== operatör ve\==operatörAndEqual.csproj", "{C4C89E54-C96E-4542-B09E-0ED1C0062493}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructure&StaticConstructer", "Constructure&StaticConstructer\Constructure&StaticConstructer.csproj", "{0154994D-1845-4F79-B0CD-6C93EA110343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAsyncAwait", "TaskAsyncAwait\TaskAsyncAwait.csproj", "{2D63FB8B-E381-4BCF-AD32-5EABCADD5158}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{C4C89E54-C96E-4542-B09E-0ED1C0062493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4C89E54-C96E-4542-B09E-0ED1C0062493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4C89E54-C96E-4542-B09E-0ED1C0062493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0154994D-1845-4F79-B0CD-6C93EA110343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0154994D-1845-4F79-B0CD-6C93EA110343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0154994D-1845-4F79-B0CD-6C93EA110343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0154994D-1845-4F79-B0CD-6C93EA110343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D63FB8B-E381-4BCF-AD32-5EABCADD5158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D63FB8B-E381-4BCF-AD32-5EABCADD5158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D63FB8B-E381-4BCF-AD32-5EABCADD5158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D63FB8B-E381-4BCF-AD32-5EABCADD5158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
