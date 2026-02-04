@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{C9C049CF-81BE-4F69-914C-F9E6FA6D420E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListVsArray", "ListVsArray\ListVsArray.csproj", "{8108BA67-5D73-4C65-9016-0378835C585D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{C9C049CF-81BE-4F69-914C-F9E6FA6D420E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9C049CF-81BE-4F69-914C-F9E6FA6D420E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9C049CF-81BE-4F69-914C-F9E6FA6D420E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8108BA67-5D73-4C65-9016-0378835C585D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8108BA67-5D73-4C65-9016-0378835C585D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8108BA67-5D73-4C65-9016-0378835C585D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8108BA67-5D73-4C65-9016-0378835C585D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
