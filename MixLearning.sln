@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakandContinue", "BreakandContinue\BreakandContinue.csproj", "{50174B25-0B7C-4C5D-B60D-621A92FBB313}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorChainingbaseAndThis", "ConstructorChainingbaseAndThis\ConstructorChainingbaseAndThis.csproj", "{BD2143E1-B320-42EF-8F91-E067F98D9669}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{50174B25-0B7C-4C5D-B60D-621A92FBB313}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50174B25-0B7C-4C5D-B60D-621A92FBB313}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50174B25-0B7C-4C5D-B60D-621A92FBB313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2143E1-B320-42EF-8F91-E067F98D9669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2143E1-B320-42EF-8F91-E067F98D9669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2143E1-B320-42EF-8F91-E067F98D9669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2143E1-B320-42EF-8F91-E067F98D9669}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
