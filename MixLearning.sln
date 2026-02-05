@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakandContinue", "Breakan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorChainingbaseAndThis", "ConstructorChainingbaseAndThis\ConstructorChainingbaseAndThis.csproj", "{BD2143E1-B320-42EF-8F91-E067F98D9669}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyAndField", "PropertyAndField\PropertyAndField.csproj", "{8ABDA033-333F-4698-AC63-FB97F8E49E9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{BD2143E1-B320-42EF-8F91-E067F98D9669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD2143E1-B320-42EF-8F91-E067F98D9669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD2143E1-B320-42EF-8F91-E067F98D9669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABDA033-333F-4698-AC63-FB97F8E49E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABDA033-333F-4698-AC63-FB97F8E49E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABDA033-333F-4698-AC63-FB97F8E49E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABDA033-333F-4698-AC63-FB97F8E49E9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
